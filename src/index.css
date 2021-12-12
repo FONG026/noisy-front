@@ -1,0 +1,51 @@
+.scrollarea{
+  width: 500px;
+  height: 590px;
+  
+}
+.yo{
+
+ width: 419px;
+ display:inline;
+ vertical-align:top;
+
+}
+.yo1{
+position: relative;
+  width:200px;
+ margin-left: 0%;
+ 
+ }
+ .second{
+   margin-right: 0%;
+ }
+.container {
+  width: fit-content;
+  height: fit-content;
+}
+.fw-semibold{
+
+}
+.bordered {
+  border: 1px solid #cccccc;
+
+}
+.container{
+  margin-top: -5%;
+  
+}
+.rounded{
+  width: 150px;
+  height: 100px;
+
+}
+.button {
+  
+  text-align: right;
+  clear: both;
+  float:left;
+  margin-right:15px;
+}
+.text-muted{
+  padding-left: 90%;
+}
